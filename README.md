@@ -9,7 +9,7 @@ during my internship at CodeAlpha.
 |------|-------|-----------|----------|
 | Task 4 | Disease Prediction from Medical Data | SVM | 86.89% |
 | Task 1 | Credit Scoring Model | Random Forest | 81.00% |
-| Task 3 | Handwritten Character Recognition | Coming Soon | - |
+| Task 3 | Handwritten Character Recognition | CNN | 99.26% |
 
 ## 🛠️ Tools & Libraries
 - Python
