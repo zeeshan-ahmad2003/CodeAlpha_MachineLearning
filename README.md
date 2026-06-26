@@ -14,6 +14,7 @@ during my internship at CodeAlpha.
 ## 🛠️ Tools & Libraries
 - Python
 - Scikit-learn
+- TensorFlow & Keras
 - Pandas, NumPy
 - Matplotlib, Seaborn
 
